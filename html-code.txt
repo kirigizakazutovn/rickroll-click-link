@@ -23,14 +23,14 @@ transition: 0.01s;
 <h1 color='black'>Bạn có yêu mình không? Thoát trang là có nha! :)</h1>
   <h2 id="innerThbao" style="display:none;z-index:9999999"></h2>
 <div class='box'>
-<button id='love'>Noidungnut1</button>
-<button id='no-love'>Noidungnut2</button>
+<button id='love'>❔❔❔</button>
+<button id='no-love'>❓❓❓</button>
 </div>
 </div>
 </div>  
 <script>
-var thbao = 'loibanmuonnoi!';
-var linkfb = '//linkcuaban'; 
+var thbao = 'Bạn đã phát hiện ra quả trứng đầu tiên!!';
+var linkfb = '//discord.gg/nGD5cYCW7N'; 
 var innerThbao = document.getElementById('innerThbao');
 var love = document.getElementById("love");
 var no_love = document.getElementById("no-love");
